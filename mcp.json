@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tradingmcp": {
+      "type": "http",
+      "url": "https://mcp.tradingmcp.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "name": "tradingmcp",
+  "displayName": "TradingMCP",
+  "version": "1.0.0",
+  "minClientVersions": {
+    "cursor": "3.13.0"
+  },
+  "description": "Screen markets, run technical analysis and backtests, and chart crypto, stocks, FX, and futures.",
+  "author": {
+    "name": "TradingMCP",
+    "email": "hello@cryptosieve.com"
+  },
+  "publisher": "TradingMCP",
+  "homepage": "https://tradingmcp.ai/docs",
+  "repository": "https://github.com/atilaahmettaner/tradingmcp-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "tradingmcp",
+    "market data",
+    "crypto",
+    "stocks",
+    "forex",
+    "futures",
+    "technical analysis",
+    "screener",
+    "backtesting",
+    "charts",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "finance",
+    "trading",
+    "market-data",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
