@@ -54,7 +54,7 @@ Some questions to start with:
 ## Notes
 
 - Every tool reads market data except `watchlist_add` and `watchlist_remove`, which change your own TradingMCP watchlist. No tool connects to a brokerage or exchange account, places orders or moves money.
-- `markets_dashboard`, `price_chart` and `backtest_chart` open interactive views in apps that support MCP Apps; elsewhere, including Grok Bot, they answer in text.
+- `markets_dashboard`, `price_chart` and `backtest_chart` open interactive views in apps that support MCP Apps, such as Cursor and Claude; elsewhere, including Grok Bot, they answer in text.
 - Crypto is live. Stocks, FX and futures can be delayed by their exchanges.
 - Tool calls run as the TradingMCP account that authorizes the connection and count toward that account's plan.
 - Nothing here is financial advice.
